@@ -17,7 +17,6 @@
 #define MOD 1'000'000'000
 #define MAX 101
 //this is not for development, but for PS.
-//this line is super critical for development.
 
 using namespace std;
 
